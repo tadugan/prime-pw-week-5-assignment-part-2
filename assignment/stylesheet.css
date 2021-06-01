@@ -6,11 +6,13 @@ header {
 
 main {
   background-color: lightgrey;
+  padding: 1em;
 }
 
 body {
   background-image: url('record.png');
   background-color: #cccccc;
   background-repeat: repeat;
+  margin: 0px;
 
 }
