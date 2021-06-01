@@ -1,18 +1,20 @@
-header {
+.text-title {
   background-color: saddlebrown;
   color: blanchedalmond;
   text-align: center;
 }
 
-main {
+.content {
   background-color: lightgrey;
   padding: 1em;
 }
 
 body {
+  margin: 0px;
+}
+
+.general-content {
   background-image: url('record.png');
   background-color: #cccccc;
   background-repeat: repeat;
-  margin: 0px;
-
 }
